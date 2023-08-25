@@ -51,6 +51,17 @@ Cypress.Commands.add('login', (username, password) => {
 
  })
 
+ 
+
+ Cypress.Commands.add('myinfo', (firstname, lastname) => { 
+
+   
+    //bfjnlfn
+
+})
+
+
+
 
 
 
