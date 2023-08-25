@@ -28,6 +28,7 @@
 
 
 //cy.addemployee()
+import 'cypress-iframe';
 require('cypress-downloadfile/lib/downloadFileCommand')
 require('@4tw/cypress-drag-drop')
 import 'cypress-file-upload';
