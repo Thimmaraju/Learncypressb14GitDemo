@@ -2585,8 +2585,37 @@ Manual + Automation
    5. merge the script to master branch 
    
    
-  ======================
+======================
 Git and Github
-allure 
 
+Push the code 
+--------------
+add the files
+
+stage the files 
+
+push the files 
+
+==============================
+
+clone the project 
+
+--------------------------
+
+user2345-buzz - adding post
+
+use2346- Myinfo
+
+PR - Pull request
+ Reviewed
+ Approved 
+ 
+Merge the branch to main
+
+Add BDD old video
+
+
+=========================================
 Jenkins
+
+
