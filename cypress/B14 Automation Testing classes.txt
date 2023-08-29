@@ -2616,6 +2616,102 @@ Add BDD old video
 
 
 =========================================
-Jenkins
+
+
+CI-CD 
+
+Continuous integration and continuous development
+
+AWS pipeline	
+
+Azure pipeline
+
+Jenkins 
+
+
+==================================================
+
+Running the Tests 
+
+700 Test cases automation 
+=====================================
+
+1. Whenever we get the new build 
+
+2. Smoke Test cases - I want to run everyday 
+
+3. Every Monday i want all tests
+
+
+--------------------------------
+
+npx cypress run 
+
+npx cypress run --spec "pathofthesmoketestsfolder"
+
+==================================
+
+In companies we will have Dev OPs 
+
+Developers Should do it 
+
+They will ask testers to do it.
+
+100%
+-----------------------------------------
+
+Can CI CD 
+
+Do you Jenkins
+Do you how to set up Jenkins pipeline 
+
+------------------------------
+
+Start up company 
+
+We have not yet integrate any cicd 
+
+we are doing it manual 
+
+---------------------------------------------------------------
+
+Pre requisites :
+----------------
+1. Java 11 or Java 17 
+
+2. Browsers
+
+-------------------
+
+Install
+
+-----
+
+Local files to Jenkins 
+
+
+
+GitHub to Jenkins
+
+-----------------
+
+Scheduleing 
+
+----------------
+Automatically  reports
+
+===============
+Automatically run after getting the build 
+
+------------------------------
+
+Pipeline 
+
+
+
+
+
+
+
 
 
